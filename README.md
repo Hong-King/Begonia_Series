@@ -22,6 +22,8 @@
 - 3. 感知器和神经网络
   - 3.1 感知器
   - 3.2 单层神经网络
+    - 3.2.1 单变量链式法则
+    - 3.2.2 多变量链式法则
 
 ## 强化学习导论 / Introduction to Reinforcement Learning
 
